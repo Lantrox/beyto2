@@ -1,0 +1,11 @@
+{
+  "prefix": "%",
+  "owners": ["1031242422379884644"],
+  "footer": "",
+
+  "msg": {
+    "nsfwWarn": "Bu komudu sadece NSFW(+18) kanallarda kullanabilirsin",
+    "loading": "Lütfen Bekleyin...",
+    "imageNotLoading": "Resim yüklenmedimi ? [TIKLA]"
+  }
+}
